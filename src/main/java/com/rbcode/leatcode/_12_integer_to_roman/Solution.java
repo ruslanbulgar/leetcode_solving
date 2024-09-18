@@ -1,4 +1,4 @@
-package com.rbcode.leatcode.arabic_to_roman;
+package com.rbcode.leatcode._12_integer_to_roman;
 
 import java.util.Collections;
 

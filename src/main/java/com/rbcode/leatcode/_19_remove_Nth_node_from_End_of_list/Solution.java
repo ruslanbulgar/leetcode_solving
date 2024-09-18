@@ -1,4 +1,4 @@
-package com.rbcode.leatcode.removeNthFromEnd;
+package com.rbcode.leatcode._19_remove_Nth_node_from_End_of_list;
 
 import java.util.Arrays;
 import java.util.List;

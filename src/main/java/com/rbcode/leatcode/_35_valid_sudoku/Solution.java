@@ -1,4 +1,4 @@
-package com.rbcode.leatcode._35.valid_sudoku;
+package com.rbcode.leatcode._35_valid_sudoku;
 
 import java.util.Arrays;
 import java.util.HashSet;
