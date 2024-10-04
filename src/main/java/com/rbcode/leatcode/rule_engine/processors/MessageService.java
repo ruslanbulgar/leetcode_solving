@@ -19,6 +19,6 @@ public interface MessageService {
             return false;
         }
 
-        return messageProcessor.processAndSend(message);
+        return messageProcessor.processAndSend(message, person);
     }
 }

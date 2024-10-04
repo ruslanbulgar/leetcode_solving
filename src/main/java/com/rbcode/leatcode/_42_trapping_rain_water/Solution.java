@@ -1,9 +1,5 @@
 package com.rbcode.leatcode._42_trapping_rain_water;
 
-import java.util.HashMap;
-import java.util.Map;
-import java.util.stream.Collectors;
-
 public class Solution {
     public int trap(int[] height) {
 

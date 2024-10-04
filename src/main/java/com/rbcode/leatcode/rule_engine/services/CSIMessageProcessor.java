@@ -1,6 +1,7 @@
 package com.rbcode.leatcode.rule_engine.services;
 
 import com.rbcode.leatcode.rule_engine.model.Message;
+import com.rbcode.leatcode.rule_engine.model.Person;
 
 public class CSIMessageProcessor implements MessageProcessor {
     @Override
@@ -9,9 +10,11 @@ public class CSIMessageProcessor implements MessageProcessor {
     }
 
     @Override
-    public boolean processAndSend(Message message) {
+    public boolean processAndSend(Message message, Person person) {
         System.out.println("Sending message via CSI message processor...");
         //do the sending
+
+        System.out.println("Sending message to " + person.getPhoneNumber());
 
         System.out.println("Message sent");
         return true;
