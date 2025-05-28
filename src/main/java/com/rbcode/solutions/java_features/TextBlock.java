@@ -1,4 +1,4 @@
-package com.rbcode.solutions.java17_features;
+package com.rbcode.solutions.java_features;
 
 import org.apache.tomcat.util.json.JSONParser;
 import org.apache.tomcat.util.json.ParseException;

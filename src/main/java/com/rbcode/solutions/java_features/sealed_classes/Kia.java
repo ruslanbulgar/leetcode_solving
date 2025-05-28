@@ -1,4 +1,4 @@
-package com.rbcode.solutions.java17_features.sealed_classes;
+package com.rbcode.solutions.java_features.sealed_classes;
 
 public class Kia implements Car {
     @Override

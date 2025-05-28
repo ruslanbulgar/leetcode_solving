@@ -1,4 +1,4 @@
-package com.rbcode.solutions.java17_features.records;
+package com.rbcode.solutions.java_features.records;
 
 public class RecordsMainClass {
 

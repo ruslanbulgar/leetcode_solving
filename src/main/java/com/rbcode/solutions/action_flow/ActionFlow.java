@@ -29,6 +29,6 @@ public class ActionFlow {
     }
 
     public void execute(final Transaction transaction) {
-        actions.forEach((Action action) -> action.perform(transaction));
+        actions.forEach(action -> action.perform(transaction));
     }
 }

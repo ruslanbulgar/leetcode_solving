@@ -1,4 +1,4 @@
-package com.rbcode.solutions.java17_features;
+package com.rbcode.solutions.java_features;
 
 import java.util.random.RandomGeneratorFactory;
 

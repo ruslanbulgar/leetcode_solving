@@ -1,4 +1,4 @@
-package com.rbcode.solutions.java17_features.sealed_classes;
+package com.rbcode.solutions.java_features.sealed_classes;
 
 import java.util.ArrayList;
 import java.util.List;
